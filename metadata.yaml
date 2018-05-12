@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6889'
     url: http://www.gutenberg.org/2009/agents/6889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16724#The-Campaign-of-1760-in-CanadaA-Narrative-Attributed-to-Chevalier-Johnstone
 gutenberg_bookshelf: Canada
 gutenberg_issued: '2005-09-19'
 gutenberg_type: Text
