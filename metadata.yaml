@@ -1,0 +1,29 @@
+_repo: The-Campaign-of-1760-in-CanadaA-Narrative-Attributed-to-Chevalier-Johnstone_16724
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnstone, James Johnstone, chevalier de
+    alias: Johnstone de Moffatt
+    birthdate: 1719
+    gutenberg_agent_id: '6889'
+    url: http://www.gutenberg.org/2009/agents/6889
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2005-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E186'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763'
+title: 'The Campaign of 1760 in Canada
+
+  A Narrative Attributed to Chevalier Johnstone'
+url: http://www.gutenberg.org/ebooks/16724
